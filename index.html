@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Qur'an word-by-word timings — Muhammad Al-Luhaidan · توقيت كلمات القرآن كلمة بكلمة</title>
+<meta name="description" content="Free, open word-by-word timestamps for the whole Qur'an recited by Muhammad Al-Luhaidan (محمد اللحيدان): all 114 surahs, 77,429 words, quran.com / QUL format, public domain (CC0). Live demo.">
+<meta name="keywords" content="Quran word by word timing, Quran word timestamps, Quran segments, verse timings, Muhammad Al-Luhaidan, Mohammed Al-Lohaidan, محمد اللحيدان, توقيت كلمات القرآن, توقيت الآيات, تلاوة كلمة بكلمة, quran.com, QUL, mp3quran, forced alignment, dataset, CC0">
+<link rel="canonical" href="https://its3li.github.io/quran-word-timings/">
+<meta name="robots" content="index, follow">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Qur'an word-by-word timings — Muhammad Al-Luhaidan (محمد اللحيدان)">
+<meta property="og:description" content="Open word-level timestamps for all 114 surahs, ready for word highlighting in Qur'an apps. Public domain (CC0).">
+<meta property="og:url" content="https://its3li.github.io/quran-word-timings/">
+<meta name="twitter:card" content="summary">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;700&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Qur'an word-by-word timings — Muhammad Al-Luhaidan (محمد اللحيدان)",
+  "alternateName": ["Quran word timestamps", "Quran word segments — Muhammad Al-Luhaidan", "توقيت كلمات القرآن كلمة بكلمة", "توقيت تلاوة محمد اللحيدان"],
+  "description": "Word-level timestamps for the complete Qur'an recited by Muhammad Al-Luhaidan (mp3quran.net recording): all 114 surahs and 77,429 words, with the reciter's repeats timed in the order they were recited. Provided in the quran.com / Quranic Universal Library (QUL) verse_timings + segments format and in a detailed format with confidence scores and flags. Made by forced alignment of the known mushaf text with Qur'an-trained speech models. Public domain (CC0).",
+  "url": "https://its3li.github.io/quran-word-timings/",
+  "sameAs": "https://github.com/its3li/quran-word-timings",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "isAccessibleForFree": true,
+  "version": "1.0.0",
+  "datePublished": "2026-10-25",
+  "inLanguage": ["ar", "en"],
+  "keywords": ["Quran", "Qur'an", "word by word", "word timing", "timestamps", "segments", "verse timings", "recitation", "Muhammad Al-Luhaidan", "محمد اللحيدان", "توقيت كلمات القرآن", "forced alignment", "tajweed", "hifz", "QUL", "quran.com"],
+  "creator": {"@type": "Organization", "name": "Quran Word Timings", "url": "https://github.com/its3li/quran-word-timings"},
+  "variableMeasured": ["word start time (seconds)", "word end time (seconds)", "aligner confidence"],
+  "distribution": [
+    {"@type": "DataDownload", "encodingFormat": "application/zip", "contentUrl": "https://github.com/its3li/quran-word-timings/archive/refs/tags/v1.0.0.zip"},
+    {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://its3li.github.io/quran-word-timings/index.json"}
+  ]
+}
+</script>
+<style>
+:root{--bg:#0f1112;--card:#181b1d;--line:#2a2e31;--ink:#e9e6df;--mute:#9a978f;--gold:#d8b45e}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+a{color:var(--gold)}main{max-width:920px;margin:0 auto;padding:40px 20px 80px}
+h1{font-size:clamp(26px,4vw,36px);line-height:1.2;margin:0 0 6px}h2{font-size:21px;margin:42px 0 10px}
+.ar{font-family:'Scheherazade New',serif;direction:rtl;text-align:right;font-size:21px;line-height:1.9}
+.lead{color:var(--mute);margin:0 0 18px}.pills{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 4px}
+.pill{border:1px solid var(--line);border-radius:999px;padding:4px 12px;font-size:14px;color:var(--mute)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px}
+.bar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:12px}
+select,button{font:inherit;color:var(--ink);background:#23272a;border:1px solid #3a3f43;border-radius:9px;padding:8px 12px}button{cursor:pointer}
+#text{font-family:'Scheherazade New',serif;direction:rtl;text-align:justify;font-size:30px;line-height:2.2;max-height:420px;overflow-y:auto;padding:4px 8px}
+.w{border-radius:7px;padding:0 2px;cursor:pointer}.w.now{background:var(--gold);color:#111}.n{color:var(--gold);font-size:24px;padding:0 4px}
+.meta{color:var(--mute);font-size:14px}code,pre{font:13.5px/1.5 ui-monospace,Consolas,monospace}pre{background:#111416;border:1px solid var(--line);border-radius:10px;padding:14px;overflow-x:auto}
+table{border-collapse:collapse;width:100%}td,th{border-bottom:1px solid var(--line);padding:8px 6px;text-align:left;vertical-align:top}
+footer{margin-top:50px;color:var(--mute);font-size:14px}
+</style>
+</head>
+<body>
+<main>
+<h1>Qur'an word-by-word timings</h1>
+<p class="ar" style="margin:0;font-size:26px">توقيت كلمات القرآن الكريم كلمة بكلمة — تلاوة الشيخ محمد اللحيدان</p>
+<p class="lead">Open, free word-level timestamps for complete Qur'an recitations that had none — so apps can highlight each word as the reciter says it.</p>
+<div class="pills"><span class="pill">114 surahs</span><span class="pill">77,429 words</span><span class="pill">25.3 h of recitation</span><span class="pill">quran.com / QUL format</span><span class="pill">Public domain · CC0</span></div>
+
+<h2>Live demo</h2>
+<div class="card">
+  <div class="bar">
+    <select id="surah" aria-label="Surah"></select>
+    <button id="play">▶ Play</button>
+    <span class="meta" id="status">Muhammad Al-Luhaidan · محمد اللحيدان</span>
+  </div>
+  <div id="text" aria-live="off"></div>
+</div>
+<p class="meta">Audio streams from mp3quran.net; the Uthmani text comes from quran.com. Click any word to jump to it.</p>
+
+<h2>Download</h2>
+<table>
+  <tr><th>What</th><th>Where</th></tr>
+  <tr><td>Everything (zip)</td><td><a href="https://github.com/its3li/quran-word-timings/releases">GitHub releases</a> · <a href="https://github.com/its3li/quran-word-timings">repository</a></td></tr>
+  <tr><td>quran.com / QUL format</td><td><code>data/muhammad-al-luhaidan/quran-com/001.json … 114.json</code></td></tr>
+  <tr><td>Full detail (repeats, confidence, flags)</td><td><code>data/muhammad-al-luhaidan/timings/001.json … 114.json</code></td></tr>
+  <tr><td>Index of all files</td><td><a href="index.json">index.json</a></td></tr>
+</table>
+<p>Use it straight from a CDN, no server needed:</p>
+<pre>https://cdn.jsdelivr.net/gh/its3li/quran-word-timings@v1.0.0/data/muhammad-al-luhaidan/quran-com/067.json</pre>
+
+<h2>Format</h2>
+<pre>{"surah": 67, "audio_url": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/067.mp3",
+ "verse_timings": [{"verse_key": "67:1", "timestamp_from": …, "timestamp_to": …,
+   "segments": [[1, start_ms, end_ms], [2, start_ms, end_ms], …]}, …]}</pre>
+<p><code>segments</code> are <code>[word position, start ms, end ms]</code> in time order. The recordings are from prayer and the reciter sometimes repeats a phrase — then word positions appear again, exactly as in quran.com's own data. Word numbers are quran.com's, so the text comes from your own Qur'an text source.</p>
+
+<h2>How it was made</h2>
+<p>Tarteel's Qur'an model (<a href="https://huggingface.co/tarteel-ai/whisper-base-ar-quran">whisper-base-ar-quran</a>) finds each ayah; a Qur'an-trained wav2vec2 model finds every letter of the <strong>known mushaf text</strong> by forced alignment, so the data can never contain a wrong word or haraka. Repeats the model hides are re-heard and checked letter by letter against the audio; doubtful words are flagged (2.9 %). Details and accuracy measurements are in the <a href="https://github.com/its3li/quran-word-timings#how-accurate-it-is">README</a>.</p>
+
+<h2 class="ar" style="font-size:24px">بالعربية</h2>
+<div class="ar">
+<p>بيانات مجانية مفتوحة لتوقيت كل كلمة من كلمات القرآن الكريم بتلاوة الشيخ محمد اللحيدان: ١١٤ سورة و٧٧٬٤٢٩ كلمة، بصيغة quran.com ومكتبة QUL، لتظليل الكلمة لحظة نطقها في تطبيقات القرآن، وتكرار المقاطع للحفظ، والانتقال إلى أي كلمة. التكرارات التي يعيدها الشيخ في الصلاة موقَّتة بالترتيب الذي قيلت به.</p>
+<p>الترخيص CC0: ملك عام، استعملها كما تشاء دون إذن ولا ذكر للمصدر. وإن نفعتك فلا تنسَ من عمل عليها من دعائك.</p>
+</div>
+
+<footer>Timing data: public domain (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>). Recitations belong to their owners and are not included. Corrections welcome on <a href="https://github.com/its3li/quran-word-timings/issues">GitHub</a>.</footer>
+</main>
+<script>
+const RECITER = 'muhammad-al-luhaidan';
+const QC = 'https://api.quran.com/api/v4';
+const pad = (n) => String(n).padStart(3, '0');
+const ar = (n) => String(n).replace(/[0-9]/g, (d) => '٠١٢٣٤٥٦٧٨٩'[d]);
+const audio = new Audio();
+audio.preload = 'none';
+let segs = [];
+let spans = new Map();
+let lit = null;
+const sel = document.getElementById('surah');
+const btn = document.getElementById('play');
+const status = document.getElementById('status');
+const box = document.getElementById('text');
+
+fetch(QC + '/chapters?language=en').then((r) => r.json()).then(({chapters}) => {
+  sel.innerHTML = chapters.map((c) => `<option value="${c.id}">${c.id}. ${c.name_simple} — ${c.name_arabic}</option>`).join('');
+  sel.value = '67';
+  load(67);
+});
+sel.onchange = () => load(Number(sel.value));
+
+async function load(s) {
+  audio.pause();
+  box.innerHTML = '<p class="meta" style="direction:ltr;text-align:left">Loading…</p>';
+  const timing = await (await fetch(`data/${RECITER}/quran-com/${pad(s)}.json`)).json();
+  const verses = [];
+  for (let page = 1; page; ) {
+    const d = await (await fetch(`${QC}/verses/by_chapter/${s}?words=true&word_fields=text_uthmani&per_page=50&page=${page}`)).json();
+    verses.push(...d.verses);
+    page = d.pagination.next_page;
+  }
+  spans = new Map();
+  box.innerHTML = '';
+  for (const v of verses) {
+    for (const w of v.words) {
+      if (w.char_type_name !== 'word') continue;
+      const el = document.createElement('span');
+      el.className = 'w';
+      el.textContent = w.text_uthmani;
+      el.dataset.key = `${v.verse_key}:${w.position}`;
+      spans.set(el.dataset.key, el);
+      box.append(el, ' ');
+    }
+    const n = document.createElement('span');
+    n.className = 'n';
+    n.textContent = '﴿' + ar(v.verse_number) + '﴾';
+    box.append(n, ' ');
+  }
+  segs = timing.verse_timings.flatMap((v) => v.segments.map(([w, a, b]) => ({key: `${v.verse_key}:${w}`, a: a / 1000, b: b / 1000}))).sort((x, y) => x.a - y.a);
+  audio.src = timing.audio_url;
+  btn.textContent = '▶ Play';
+  status.textContent = `Muhammad Al-Luhaidan · surah ${s} · ${segs.length} timed words`;
+}
+btn.onclick = () => (audio.paused ? audio.play() : audio.pause());
+audio.onplay = () => (btn.textContent = '❚❚ Pause');
+audio.onpause = () => (btn.textContent = '▶ Play');
+box.onclick = (e) => {
+  const k = e.target.dataset && e.target.dataset.key;
+  const s = k && segs.find((x) => x.key === k);
+  if (s) { audio.currentTime = Math.max(0, s.a - 0.3); audio.play(); }
+};
+setInterval(() => {
+  if (!segs.length) return;
+  const t = audio.currentTime;
+  let i = -1;
+  for (let k = 0; k < segs.length && segs[k].a <= t; k++) i = k;
+  const on = i >= 0 && t <= segs[i].b + 0.6 ? spans.get(segs[i].key) : null;
+  if (on === lit) return;
+  if (lit) lit.classList.remove('now');
+  lit = on;
+  if (lit) { lit.classList.add('now'); if (!audio.paused) lit.scrollIntoView({block: 'nearest', behavior: 'smooth'}); }
+}, 40);
+</script>
+</body>
+</html>

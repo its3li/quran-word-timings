@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://its3li.github.io/quran-word-timings/sitemap.xml

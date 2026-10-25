@@ -1,0 +1,1045 @@
+{
+ "license": "CC0-1.0",
+ "generated": "2026-10-25",
+ "reciters": [
+  {
+   "folder": "muhammad-al-luhaidan",
+   "name": "Mohammed Al-Lohaidan",
+   "nameArabic": "محمد اللحيدان",
+   "source": "mp3quran.net",
+   "sourceId": "mqf:107",
+   "surahs": 114,
+   "words": 77429,
+   "hours": 25.3,
+   "flagged": 2223,
+   "files": [
+    {
+     "surah": 1,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/001.mp3",
+     "sha256": "8ee25de09c572e0d90b05090253f4b5a4b33ce52390cc8e0ba30f144c9c55450",
+     "duration": 43.8,
+     "words": 29,
+     "repeated": 0,
+     "flagged": 1
+    },
+    {
+     "surah": 2,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/002.mp3",
+     "sha256": "69a02056dd2d6d15479261961eb5fc29643d4fd104f89d6f4469c71ab82d7edd",
+     "duration": 6781.12,
+     "words": 6116,
+     "repeated": 273,
+     "flagged": 165
+    },
+    {
+     "surah": 3,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/003.mp3",
+     "sha256": "ff874e03e73705b977d02c90468588a974d091b0c6262f8b7b6e5e95ee28746e",
+     "duration": 4005.52,
+     "words": 3481,
+     "repeated": 212,
+     "flagged": 127
+    },
+    {
+     "surah": 4,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/004.mp3",
+     "sha256": "d484122755687f6afb20160384d810ad9e5be166220f1cd55b6045a64f6243c3",
+     "duration": 4218.32,
+     "words": 3747,
+     "repeated": 204,
+     "flagged": 112
+    },
+    {
+     "surah": 5,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/005.mp3",
+     "sha256": "cfb156ad93ad6a28aa3153d9ffc9a3dc45d2ac27f30b4da81745000130fdd1ad",
+     "duration": 3497.56,
+     "words": 2804,
+     "repeated": 184,
+     "flagged": 97
+    },
+    {
+     "surah": 6,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/006.mp3",
+     "sha256": "acb9ef6dae7f8576896cf41004b2c242e6bcdf8917a13d9cc7d24ec5df8cc5f3",
+     "duration": 3707.08,
+     "words": 3050,
+     "repeated": 142,
+     "flagged": 97
+    },
+    {
+     "surah": 7,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/007.mp3",
+     "sha256": "234c1b77479d6c7988003df28bf2e8bdcfb2f025f4da855b0bf93417dd351275",
+     "duration": 4025.04,
+     "words": 3320,
+     "repeated": 114,
+     "flagged": 97
+    },
+    {
+     "surah": 8,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/008.mp3",
+     "sha256": "2afe9e133ee784abc15783abad774f8d0dc3c5ecc75b05067645c4ab1af2e99a",
+     "duration": 1434.56,
+     "words": 1233,
+     "repeated": 25,
+     "flagged": 21
+    },
+    {
+     "surah": 9,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/009.mp3",
+     "sha256": "836b19af69b6d3998cf0d4d3b15d12bad09f190afe93022c3ba60da427295247",
+     "duration": 2823.4,
+     "words": 2498,
+     "repeated": 103,
+     "flagged": 49
+    },
+    {
+     "surah": 10,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/010.mp3",
+     "sha256": "22462f7dfd019fc807df6d5183109dd50f1ae60ad0b7a4af885163fdae177adf",
+     "duration": 2158.2,
+     "words": 1833,
+     "repeated": 35,
+     "flagged": 52
+    },
+    {
+     "surah": 11,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/011.mp3",
+     "sha256": "3bb472ba27005610023d9bf26af23bcb4406cbefda1324a0af351f4897605eb8",
+     "duration": 2410.9,
+     "words": 1917,
+     "repeated": 83,
+     "flagged": 65
+    },
+    {
+     "surah": 12,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/012.mp3",
+     "sha256": "d711b81b91fcef18093d55bff3b2006b88a3d752acc2aaf7207ae3a024020bcb",
+     "duration": 2328.42,
+     "words": 1777,
+     "repeated": 68,
+     "flagged": 45
+    },
+    {
+     "surah": 13,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/013.mp3",
+     "sha256": "ee665c2e3b671d47b2831f81b65a89a9783eff3d15dc33a38b68dd7ea56492f2",
+     "duration": 949.86,
+     "words": 853,
+     "repeated": 19,
+     "flagged": 22
+    },
+    {
+     "surah": 14,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/014.mp3",
+     "sha256": "d10de99d382cded27d15afcf2898f4676969579806cceab976290a14d489860d",
+     "duration": 1026.94,
+     "words": 830,
+     "repeated": 22,
+     "flagged": 24
+    },
+    {
+     "surah": 15,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/015.mp3",
+     "sha256": "a43b7cb63ed3ba3574e7d1c7752c83d61e2f90e202f5f54ef3334c390db6a67b",
+     "duration": 843.92,
+     "words": 655,
+     "repeated": 7,
+     "flagged": 16
+    },
+    {
+     "surah": 16,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/016.mp3",
+     "sha256": "e4a4978cc2d83cd24a1e61cdcb546e9202e318573e04780ed71730a0d108c8c8",
+     "duration": 2205.1,
+     "words": 1844,
+     "repeated": 111,
+     "flagged": 55
+    },
+    {
+     "surah": 17,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/017.mp3",
+     "sha256": "3f820e54969f4f71f770798fa7b802fedb2e75046fb3865f9e1876cb870d46ca",
+     "duration": 1796.36,
+     "words": 1556,
+     "repeated": 57,
+     "flagged": 40
+    },
+    {
+     "surah": 18,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/018.mp3",
+     "sha256": "50a6006908c1af40f6250577bf5e02855bdb95797e35f86d5177070206165bf7",
+     "duration": 1788.34,
+     "words": 1579,
+     "repeated": 52,
+     "flagged": 34
+    },
+    {
+     "surah": 19,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/019.mp3",
+     "sha256": "f8f18ac2df2ebd18304a361ab3f07421ee1317c997a16cdf6b2ebe70248bfc57",
+     "duration": 1079.82,
+     "words": 961,
+     "repeated": 22,
+     "flagged": 24
+    },
+    {
+     "surah": 20,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/020.mp3",
+     "sha256": "cfb8a76fbb7cf8ac852503120c75a94a05f934029f1ccc17b3dd658c5c4b4e0a",
+     "duration": 1406.72,
+     "words": 1335,
+     "repeated": 48,
+     "flagged": 37
+    },
+    {
+     "surah": 21,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/021.mp3",
+     "sha256": "861ddf67bd115a727662f73cb4ce9f36d33aa6099fd2abbca42c93d2b3b517b8",
+     "duration": 1470.76,
+     "words": 1169,
+     "repeated": 55,
+     "flagged": 30
+    },
+    {
+     "surah": 22,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/022.mp3",
+     "sha256": "9197485b08f664eb18fde6141fd7b24c1d3adbe75b4cec7afda3db1d7b12908f",
+     "duration": 1433.02,
+     "words": 1274,
+     "repeated": 66,
+     "flagged": 42
+    },
+    {
+     "surah": 23,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/023.mp3",
+     "sha256": "b04fcf74c0aa6a8989fdb01f9a29e3466964e09741bc495456869499b3ae8e29",
+     "duration": 1364.62,
+     "words": 1050,
+     "repeated": 42,
+     "flagged": 33
+    },
+    {
+     "surah": 24,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/024.mp3",
+     "sha256": "7a607405410ca59849314df89fc12e0e31d7e67b3084b945cb6b4e1b13fe2a90",
+     "duration": 1518.02,
+     "words": 1316,
+     "repeated": 70,
+     "flagged": 58
+    },
+    {
+     "surah": 25,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/025.mp3",
+     "sha256": "b2c263b756539108f84b23cd438b4039af8176185bafa25c035758be71ac3552",
+     "duration": 980.34,
+     "words": 893,
+     "repeated": 33,
+     "flagged": 12
+    },
+    {
+     "surah": 26,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/026.mp3",
+     "sha256": "a1d6951789ed6d17e40c4bfcef7e6cfb8c82baea7e2d3126bc9c52a43e68a4c4",
+     "duration": 1618.48,
+     "words": 1318,
+     "repeated": 9,
+     "flagged": 23
+    },
+    {
+     "surah": 27,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/027.mp3",
+     "sha256": "95b5d3c3b9abe4293c817eebc001c9f2a4731e2a0b5305a328b25a71f8731a36",
+     "duration": 1331.5,
+     "words": 1151,
+     "repeated": 40,
+     "flagged": 36
+    },
+    {
+     "surah": 28,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/028.mp3",
+     "sha256": "b26ffc48f2f388d72eb72e0da0ada81e00d2c8a6e86326b64a215bcb3a4a8d44",
+     "duration": 1664.12,
+     "words": 1430,
+     "repeated": 75,
+     "flagged": 38
+    },
+    {
+     "surah": 29,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/029.mp3",
+     "sha256": "ca6120a468b65790f9dcf1b1e3f3e23fa750daf396745540dbb8d137e47fe45f",
+     "duration": 1161.78,
+     "words": 976,
+     "repeated": 28,
+     "flagged": 28
+    },
+    {
+     "surah": 30,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/030.mp3",
+     "sha256": "f9347acc560da5bdf96b9dbde48dfb78eda39f90c58c50e60cbc7cd695af3310",
+     "duration": 997.64,
+     "words": 817,
+     "repeated": 27,
+     "flagged": 35
+    },
+    {
+     "surah": 31,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/031.mp3",
+     "sha256": "625a674081aacc835d9af2f68c063813b3ae1292f4950eb3fbc78bdf8097d542",
+     "duration": 610.22,
+     "words": 546,
+     "repeated": 22,
+     "flagged": 14
+    },
+    {
+     "surah": 32,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/032.mp3",
+     "sha256": "f277252141912355088896e74dfb0c2408fbdbb54905dd4c79db052f31f38278",
+     "duration": 442.2,
+     "words": 372,
+     "repeated": 19,
+     "flagged": 16
+    },
+    {
+     "surah": 33,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/033.mp3",
+     "sha256": "d48e0cd11a39506f233ab29822de00ad08bddd38ab3f8aa61cbc7487cce9fa6a",
+     "duration": 1475.76,
+     "words": 1287,
+     "repeated": 75,
+     "flagged": 37
+    },
+    {
+     "surah": 34,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/034.mp3",
+     "sha256": "399a8e57cb3557e06489938a3f36702587528e3ff0ac5a87c8a6734597f7ba57",
+     "duration": 998.12,
+     "words": 883,
+     "repeated": 41,
+     "flagged": 32
+    },
+    {
+     "surah": 35,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/035.mp3",
+     "sha256": "7c58bd1c108c5f41afa9ac6ad92d09c1a5a79443bc54569296d17fef66f7499c",
+     "duration": 876.18,
+     "words": 775,
+     "repeated": 32,
+     "flagged": 19
+    },
+    {
+     "surah": 36,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/036.mp3",
+     "sha256": "630117cc2e059fe282c3573e79fd5f02021d7bd30a94a084392dea72038e90a0",
+     "duration": 861.58,
+     "words": 725,
+     "repeated": 20,
+     "flagged": 22
+    },
+    {
+     "surah": 37,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/037.mp3",
+     "sha256": "d65e37a1afe2529aef9ac358ee07d1f67e019a85c50caf154e83c6f4677a647f",
+     "duration": 1146.56,
+     "words": 860,
+     "repeated": 1,
+     "flagged": 13
+    },
+    {
+     "surah": 38,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/038.mp3",
+     "sha256": "6a5f0eab34c75a5a3a18659d1600b768156a22b68c90bf11d280a4237b55a1db",
+     "duration": 842.88,
+     "words": 733,
+     "repeated": 17,
+     "flagged": 15
+    },
+    {
+     "surah": 39,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/039.mp3",
+     "sha256": "a6b02cec497d8f7a9d94b1dff4f3e544a522499f7fef574ad50dbb2c93ac41eb",
+     "duration": 1302.04,
+     "words": 1172,
+     "repeated": 64,
+     "flagged": 54
+    },
+    {
+     "surah": 40,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/040.mp3",
+     "sha256": "7dc30f8cc56e640329687e2e5067d5387b50f0ca9b1a43231d1042f6ca00d5b8",
+     "duration": 1331.8,
+     "words": 1219,
+     "repeated": 50,
+     "flagged": 31
+    },
+    {
+     "surah": 41,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/041.mp3",
+     "sha256": "be7b0b111f5e7ef64b6ba3d0dec3d43ac4675fe01c0cfb984bf4478f855e2fbc",
+     "duration": 959.52,
+     "words": 794,
+     "repeated": 31,
+     "flagged": 21
+    },
+    {
+     "surah": 42,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/042.mp3",
+     "sha256": "8cc4a45c000b757418f8d93f2dd3eb9365d7fdb6adbafdc2d22e05215cb80bcc",
+     "duration": 979.84,
+     "words": 860,
+     "repeated": 39,
+     "flagged": 31
+    },
+    {
+     "surah": 43,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/043.mp3",
+     "sha256": "5652121fe1e12c798075bb05c148d634d5ef5ef2a443ab4c43f3bd1b1f1c2320",
+     "duration": 1005.4,
+     "words": 830,
+     "repeated": 18,
+     "flagged": 22
+    },
+    {
+     "surah": 44,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/044.mp3",
+     "sha256": "f1149619dbcfa8e5f31f5c3916df02f3fe6edb09b3a7c0231c06f738d034959e",
+     "duration": 436.54,
+     "words": 346,
+     "repeated": 0,
+     "flagged": 7
+    },
+    {
+     "surah": 45,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/045.mp3",
+     "sha256": "e53f78dd6e3a7f263c22bba4613651e3d4be1bd7155654107e3cc7422bb2b4fe",
+     "duration": 568.78,
+     "words": 488,
+     "repeated": 27,
+     "flagged": 16
+    },
+    {
+     "surah": 46,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/046.mp3",
+     "sha256": "299f3e663fb18544f382980fcc8c60de2db0bb1a5180b2438ce1686ff1f8aafb",
+     "duration": 720.82,
+     "words": 643,
+     "repeated": 50,
+     "flagged": 32
+    },
+    {
+     "surah": 47,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/047.mp3",
+     "sha256": "4130d6f2b195f527698923395e398e3c60ba0c4a92943a178e7a35d66b795831",
+     "duration": 614.86,
+     "words": 539,
+     "repeated": 35,
+     "flagged": 27
+    },
+    {
+     "surah": 48,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/048.mp3",
+     "sha256": "6d2fd1c304678c76ea905f4217f745dd1713278eb996af46e37d661de2dc7d32",
+     "duration": 607.44,
+     "words": 560,
+     "repeated": 34,
+     "flagged": 11
+    },
+    {
+     "surah": 49,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/049.mp3",
+     "sha256": "1237b58223e0f0ee8595466c9d5fc58e37cf703330d9d1691c6c0449b25921c4",
+     "duration": 431.82,
+     "words": 347,
+     "repeated": 21,
+     "flagged": 13
+    },
+    {
+     "surah": 50,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/050.mp3",
+     "sha256": "8b86cca63d0fe554b8168a729a1bd876d7732943c67e089de4b29bee551e0f41",
+     "duration": 438.5,
+     "words": 373,
+     "repeated": 5,
+     "flagged": 8
+    },
+    {
+     "surah": 51,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/051.mp3",
+     "sha256": "c65cbb18cc843b87679dfb19e1b17781dae2a18b12b8ad3317e93026357e4255",
+     "duration": 408.26,
+     "words": 360,
+     "repeated": 3,
+     "flagged": 6
+    },
+    {
+     "surah": 52,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/052.mp3",
+     "sha256": "6bca058cb4aba749d3dbceefb56034c9ba50dc75109679835e2b15a512ce50cb",
+     "duration": 367.98,
+     "words": 312,
+     "repeated": 3,
+     "flagged": 8
+    },
+    {
+     "surah": 53,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/053.mp3",
+     "sha256": "f9a42a0ca24dfbf2e1c49fe2c441a78f91c65874ca72e88f4676b6e1c73799fb",
+     "duration": 365.88,
+     "words": 360,
+     "repeated": 3,
+     "flagged": 6
+    },
+    {
+     "surah": 54,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/054.mp3",
+     "sha256": "4f800af32d71e602b38b48aeff4c38f92fe8ac6ad3a01a255a4121d20d7254c7",
+     "duration": 401.88,
+     "words": 342,
+     "repeated": 3,
+     "flagged": 9
+    },
+    {
+     "surah": 55,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/055.mp3",
+     "sha256": "2d6c036106f102582dc99dd65a22b46f3ca1fa5cec416db24c3f93f9b7795bfb",
+     "duration": 522.36,
+     "words": 351,
+     "repeated": 0,
+     "flagged": 14
+    },
+    {
+     "surah": 56,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/056.mp3",
+     "sha256": "c76aeb1c768c68409ea03bee660ede557b74ecd1277a940fe19094072241f5e8",
+     "duration": 530.52,
+     "words": 379,
+     "repeated": 0,
+     "flagged": 18
+    },
+    {
+     "surah": 57,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/057.mp3",
+     "sha256": "0cd538037d6009fa536c74df767eb8505bceb76160085123fa5b08843e0cb591",
+     "duration": 632.1,
+     "words": 574,
+     "repeated": 42,
+     "flagged": 12
+    },
+    {
+     "surah": 58,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/058.mp3",
+     "sha256": "9bbfb09133b9acd94604ee8d802a62b0e7b5799f7bfba7d85eb7c2dd422266bc",
+     "duration": 545.56,
+     "words": 472,
+     "repeated": 22,
+     "flagged": 14
+    },
+    {
+     "surah": 59,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/059.mp3",
+     "sha256": "22ca84c5141778d3417829beb56c6ffe5cb9d08f8708ce061be416ab4d9b398d",
+     "duration": 521.26,
+     "words": 445,
+     "repeated": 31,
+     "flagged": 14
+    },
+    {
+     "surah": 60,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/060.mp3",
+     "sha256": "dcd5c32e37f2980ee8c460d41b21f058d63fb01ee3a59c57e2cc25a73084d41a",
+     "duration": 439.26,
+     "words": 348,
+     "repeated": 22,
+     "flagged": 13
+    },
+    {
+     "surah": 61,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/061.mp3",
+     "sha256": "03e7188bb262b9ea245126b771ed83338f187c4f2879f998abc263c48bf11789",
+     "duration": 264.04,
+     "words": 221,
+     "repeated": 3,
+     "flagged": 3
+    },
+    {
+     "surah": 62,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/062.mp3",
+     "sha256": "e2ab10144284d167121122b6269e0518780ed4ed79b209bda264e242344c9264",
+     "duration": 200.64,
+     "words": 175,
+     "repeated": 13,
+     "flagged": 4
+    },
+    {
+     "surah": 63,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/063.mp3",
+     "sha256": "3857b46e8ca9e3415c67bbcc0a4ca36ef63f767f359306016bb13544617261db",
+     "duration": 223.38,
+     "words": 180,
+     "repeated": 5,
+     "flagged": 5
+    },
+    {
+     "surah": 64,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/064.mp3",
+     "sha256": "305190973ceea49c46a7676fbee3139c642fc3a739fade226acfc79d65573caa",
+     "duration": 261.24,
+     "words": 241,
+     "repeated": 3,
+     "flagged": 3
+    },
+    {
+     "surah": 65,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/065.mp3",
+     "sha256": "84da1203c827e7c317d9714dd3226f5a6e9b6dd90306a0c4be48b3d14c3799ec",
+     "duration": 303.76,
+     "words": 287,
+     "repeated": 5,
+     "flagged": 5
+    },
+    {
+     "surah": 66,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/066.mp3",
+     "sha256": "7eeab9cd4d8669e50bc5a88cba3be40a9d92c470251aba1ed74ab949fad0b69f",
+     "duration": 303.76,
+     "words": 249,
+     "repeated": 17,
+     "flagged": 11
+    },
+    {
+     "surah": 67,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/067.mp3",
+     "sha256": "59ce05b3f71b71cf012313797620df916c538bb0d493803314d8ddfe4894c7c0",
+     "duration": 356.88,
+     "words": 333,
+     "repeated": 4,
+     "flagged": 5
+    },
+    {
+     "surah": 68,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/068.mp3",
+     "sha256": "3a5dcd614a2f527512cb0e467302f71be199348e3fcb2f77f4314b544be09635",
+     "duration": 358,
+     "words": 300,
+     "repeated": 0,
+     "flagged": 7
+    },
+    {
+     "surah": 69,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/069.mp3",
+     "sha256": "538410965523ebc88803c8b978ca8173655f72c85aff51a53222c829fd0bd3a4",
+     "duration": 320,
+     "words": 258,
+     "repeated": 0,
+     "flagged": 10
+    },
+    {
+     "surah": 70,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/070.mp3",
+     "sha256": "4647bafab66816938b7f8480a81326c7a541b4e00be5f96507cec365a41f5c6b",
+     "duration": 280,
+     "words": 217,
+     "repeated": 0,
+     "flagged": 4
+    },
+    {
+     "surah": 71,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/071.mp3",
+     "sha256": "916feb25a2151d509dacf1a0b8e6805645e6d0e68b8bfdd1735965606d3e0e68",
+     "duration": 255.42,
+     "words": 226,
+     "repeated": 4,
+     "flagged": 8
+    },
+    {
+     "surah": 72,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/072.mp3",
+     "sha256": "892d9adf9e7f0d8981fe0c6a3994a2175ef0b734f09a19e8ab226398c1affa0f",
+     "duration": 316.64,
+     "words": 285,
+     "repeated": 3,
+     "flagged": 9
+    },
+    {
+     "surah": 73,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/073.mp3",
+     "sha256": "353c2d43c102d389dcd61609f6bddd1466a5a8df7c32df1c9eda72ec743a3062",
+     "duration": 237.24,
+     "words": 199,
+     "repeated": 5,
+     "flagged": 3
+    },
+    {
+     "surah": 74,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/074.mp3",
+     "sha256": "e266fdfb70c793b648cb203cf87a9236e4af546c20fff1ca17eff6c811b0c9db",
+     "duration": 307.74,
+     "words": 255,
+     "repeated": 13,
+     "flagged": 8
+    },
+    {
+     "surah": 75,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/075.mp3",
+     "sha256": "53742c2a5d1d1ecff6cebfb5c261230efd9cf201348f8c10f750d10a36ae765c",
+     "duration": 200.16,
+     "words": 164,
+     "repeated": 0,
+     "flagged": 2
+    },
+    {
+     "surah": 76,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/076.mp3",
+     "sha256": "0e3b8311040814e50b217bca348f55a249d1c0f538d6244eabf037c185762f8f",
+     "duration": 313.02,
+     "words": 243,
+     "repeated": 0,
+     "flagged": 4
+    },
+    {
+     "surah": 77,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/077.mp3",
+     "sha256": "34029d5ce4e33d98b9e54e8f3d5037572c70281f9fb28f8ef2663f593569d35e",
+     "duration": 253.88,
+     "words": 181,
+     "repeated": 0,
+     "flagged": 3
+    },
+    {
+     "surah": 78,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/078.mp3",
+     "sha256": "4618ca48428fb1f7ba78e34051dd1d0753915c5d4a54aa4d0156ee2868ba0134",
+     "duration": 214.7,
+     "words": 173,
+     "repeated": 2,
+     "flagged": 9
+    },
+    {
+     "surah": 79,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/079.mp3",
+     "sha256": "14017104127edee95166b5c8c1c09ed12bce10e609f9e4d6306f774dea6f8dfc",
+     "duration": 210.52,
+     "words": 179,
+     "repeated": 0,
+     "flagged": 0
+    },
+    {
+     "surah": 80,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/080.mp3",
+     "sha256": "ead720a50fce1a030b6b5ca450f9260866a7adcb11e7330380fb7fd8ee1ca0e9",
+     "duration": 186.38,
+     "words": 133,
+     "repeated": 0,
+     "flagged": 1
+    },
+    {
+     "surah": 81,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/081.mp3",
+     "sha256": "add478fda9ebcbc1e407a5215c70c2bbf6a3a085709c8ee50a088456038f889b",
+     "duration": 132.7,
+     "words": 104,
+     "repeated": 0,
+     "flagged": 1
+    },
+    {
+     "surah": 82,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/082.mp3",
+     "sha256": "c8f452241671a4fdb8e1987b388176bbf9f86de33b1aee5f0b049dea0d458a3e",
+     "duration": 106.56,
+     "words": 80,
+     "repeated": 0,
+     "flagged": 7
+    },
+    {
+     "surah": 83,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/083.mp3",
+     "sha256": "521c83f5e930a96cb54cc836e4a657b3b7613fe08cebe1dfa71071308e5b70f6",
+     "duration": 244.62,
+     "words": 169,
+     "repeated": 0,
+     "flagged": 3
+    },
+    {
+     "surah": 84,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/084.mp3",
+     "sha256": "2c7b43ceefa29ed5bcdba2b7e10401dcb72524f98f01d774e125f39c30e9e540",
+     "duration": 137.76,
+     "words": 107,
+     "repeated": 0,
+     "flagged": 3
+    },
+    {
+     "surah": 85,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/085.mp3",
+     "sha256": "541a2b2722d330760d9e3f8ee2ecc2a3ce016d49a2c1ffd257c1f86a02c7f64e",
+     "duration": 134.32,
+     "words": 109,
+     "repeated": 3,
+     "flagged": 0
+    },
+    {
+     "surah": 86,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/086.mp3",
+     "sha256": "3dcc4621043be336da5f5eae1a2fe7613cfbac5fd4c72f45eee33e40c7278388",
+     "duration": 82.06,
+     "words": 61,
+     "repeated": 0,
+     "flagged": 2
+    },
+    {
+     "surah": 87,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/087.mp3",
+     "sha256": "e3d90a61447d5f20cfc567017a24722ad1a584c9172b87cbe834a1a147a86b72",
+     "duration": 83.9,
+     "words": 72,
+     "repeated": 0,
+     "flagged": 1
+    },
+    {
+     "surah": 88,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/088.mp3",
+     "sha256": "532bb0673b6e7b6e722cd5eb77446363c2224f8007ceb642fadb40727b0acfad",
+     "duration": 107.48,
+     "words": 92,
+     "repeated": 0,
+     "flagged": 2
+    },
+    {
+     "surah": 89,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/089.mp3",
+     "sha256": "808bdf4ed3e2d0ff61721d93941005d23c8b0903ce38afcb33a00be9b3dd4f07",
+     "duration": 162.42,
+     "words": 137,
+     "repeated": 0,
+     "flagged": 3
+    },
+    {
+     "surah": 90,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/090.mp3",
+     "sha256": "e90924a83d4bc4cb70c5287c68fe175a0db4eaa90acdb2a368aec6cb19c44e27",
+     "duration": 94.42,
+     "words": 82,
+     "repeated": 0,
+     "flagged": 1
+    },
+    {
+     "surah": 91,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/091.mp3",
+     "sha256": "91ee202b93f8daeb13db654404f9f092222bb323fa8490f01974e978ada79411",
+     "duration": 70.84,
+     "words": 54,
+     "repeated": 0,
+     "flagged": 1
+    },
+    {
+     "surah": 92,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/092.mp3",
+     "sha256": "4463ab61b94f4b3e98715d9646e3a7c12fde1c6b3fbea3e171258de131cd15de",
+     "duration": 92.64,
+     "words": 71,
+     "repeated": 0,
+     "flagged": 1
+    },
+    {
+     "surah": 93,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/093.mp3",
+     "sha256": "3bc92ea975c43e3ec3f2ffb01ef0ec552252870fdf072ba78c4b1925347b57e5",
+     "duration": 53.6,
+     "words": 40,
+     "repeated": 0,
+     "flagged": 0
+    },
+    {
+     "surah": 94,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/094.mp3",
+     "sha256": "8ece6d892e95307c53c2fe97974243a4e27fe30e1d89dc3103e3c5310275f863",
+     "duration": 36.54,
+     "words": 27,
+     "repeated": 0,
+     "flagged": 4
+    },
+    {
+     "surah": 95,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/095.mp3",
+     "sha256": "573e32e22ecd733da1069be334fc5600da93be2ddd2a9d7ab91e11a146ab302c",
+     "duration": 48.34,
+     "words": 34,
+     "repeated": 0,
+     "flagged": 0
+    },
+    {
+     "surah": 96,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/096.mp3",
+     "sha256": "0855b87299f3cdc779415740f1064bec5ed1edf344268cc3aca3fc03712245c5",
+     "duration": 77.74,
+     "words": 72,
+     "repeated": 0,
+     "flagged": 0
+    },
+    {
+     "surah": 97,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/097.mp3",
+     "sha256": "0eaab59d7e1e71eadff18f27b95943ed96fdb6f3cb4a355ff4e23a60ac974308",
+     "duration": 40.16,
+     "words": 30,
+     "repeated": 0,
+     "flagged": 3
+    },
+    {
+     "surah": 98,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/098.mp3",
+     "sha256": "f9865ee1ffbde9c95336e30e7859f68c9e7009fb4c1c97df4440efcd20044d17",
+     "duration": 106.76,
+     "words": 94,
+     "repeated": 3,
+     "flagged": 3
+    },
+    {
+     "surah": 99,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/099.mp3",
+     "sha256": "331fc016fc36bcb3ecd7c371c379a4823a304162048cba0f68c2a5aa7a0fb6c6",
+     "duration": 47.24,
+     "words": 36,
+     "repeated": 0,
+     "flagged": 2
+    },
+    {
+     "surah": 100,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/100.mp3",
+     "sha256": "e046388ae5d41b9ba9b0f7f6eb8869d9682f2074fe46ec0df28cfafa52207639",
+     "duration": 52.16,
+     "words": 40,
+     "repeated": 0,
+     "flagged": 1
+    },
+    {
+     "surah": 101,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/101.mp3",
+     "sha256": "6f1410214fd2d36ed70519bf534607201e9a12531b6f1a01aa5571f04c921971",
+     "duration": 49.78,
+     "words": 36,
+     "repeated": 0,
+     "flagged": 2
+    },
+    {
+     "surah": 102,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/102.mp3",
+     "sha256": "f1fb7eb9df44e56ab2e69a2c4667c164f817698ca9e4fb4ef00ae2d644f62e6f",
+     "duration": 42.18,
+     "words": 28,
+     "repeated": 0,
+     "flagged": 1
+    },
+    {
+     "surah": 103,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/103.mp3",
+     "sha256": "cb1f9f2ba3ca62a0cf6af278a3e770aaa9a165fc05e9716d0c964d0be461d642",
+     "duration": 22.4,
+     "words": 14,
+     "repeated": 0,
+     "flagged": 0
+    },
+    {
+     "surah": 104,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/104.mp3",
+     "sha256": "382cbed9f0f6f63e22bffb543b754da6b8a98619e72f8228ece9e0e9aa3b861c",
+     "duration": 45.44,
+     "words": 33,
+     "repeated": 0,
+     "flagged": 1
+    },
+    {
+     "surah": 105,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/105.mp3",
+     "sha256": "9b54fd22137dc53bf0707551c72f6c351073d82f1e9d0561c6c84eed92a95811",
+     "duration": 35.84,
+     "words": 23,
+     "repeated": 0,
+     "flagged": 3
+    },
+    {
+     "surah": 106,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/106.mp3",
+     "sha256": "d9ddb16985d9afb3ff784a368bebbd4975cee4038f03007ca4dfd8b8c3069cca",
+     "duration": 32.2,
+     "words": 17,
+     "repeated": 0,
+     "flagged": 1
+    },
+    {
+     "surah": 107,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/107.mp3",
+     "sha256": "b5e1ee68560fbb09ce271b4a37ff8dcb0db69b6d61fa889b9692252875ffe0fe",
+     "duration": 39.1,
+     "words": 25,
+     "repeated": 0,
+     "flagged": 0
+    },
+    {
+     "surah": 108,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/108.mp3",
+     "sha256": "c991c68c1c0b0c2cdd6a6c5abcff2c3486dbc2e4b18b6a134b923122311e935e",
+     "duration": 21.12,
+     "words": 10,
+     "repeated": 0,
+     "flagged": 0
+    },
+    {
+     "surah": 109,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/109.mp3",
+     "sha256": "e0b9846e1b4d257e1f978f3904de01cef7a73a0764c2f6e8219532e0319bb8c1",
+     "duration": 45.08,
+     "words": 26,
+     "repeated": 0,
+     "flagged": 1
+    },
+    {
+     "surah": 110,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/110.mp3",
+     "sha256": "94e72f9e3193bc75a2a36384bb7b551b673c400f282a25833acc345bb12466eb",
+     "duration": 28.38,
+     "words": 19,
+     "repeated": 0,
+     "flagged": 0
+    },
+    {
+     "surah": 111,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/111.mp3",
+     "sha256": "a0d532b9375e5213f740620a6ba9e8472488fdcd0bc9b74921663f0ba5e57e91",
+     "duration": 35.64,
+     "words": 23,
+     "repeated": 0,
+     "flagged": 0
+    },
+    {
+     "surah": 112,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/112.mp3",
+     "sha256": "42abcbd8c925721828e33605ba1ca628ec76ddd7140afce568f448d5cdce56f4",
+     "duration": 19.14,
+     "words": 15,
+     "repeated": 0,
+     "flagged": 0
+    },
+    {
+     "surah": 113,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/113.mp3",
+     "sha256": "45ae6efd093e0318d566b35e6c8425bf00d3ecba974465fefe8b13e023651265",
+     "duration": 28.02,
+     "words": 23,
+     "repeated": 0,
+     "flagged": 0
+    },
+    {
+     "surah": 114,
+     "audio": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/114.mp3",
+     "sha256": "c71c51bb7568d49d6fb19531254a4b65a9e33df986788154985efa8196694312",
+     "duration": 35.28,
+     "words": 20,
+     "repeated": 0,
+     "flagged": 2
+    }
+   ]
+  }
+ ]
+}
